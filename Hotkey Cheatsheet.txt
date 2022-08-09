@@ -1,0 +1,135 @@
+-------------------------------------------------------
+
+Hotkeys and Variations
+
+Ctrl+
+Shift+
+Alt+
+Capslock+
+Windowskey+
+
+Ctrl+Alt+
+Ctrl+Shift+
+Ctrl+Windowskey+
+
+Shift+Alt+
+Shift+Windowskey+
+
+Alt+Windowskey+
+
+-------------------------------------------------------
+
+Opens any kind of Websites
+
+Ctrl+Alt+x = Webuntis
+Ctrl+Alt+y = Youtube
+Ctrl+Alt+g = Google
+Ctrl+Alt+t = Google Translater
+Ctrl+Alt+r = Reddit
+Ctrl+Alt+d = Digi4School
+Ctrl+Alt+m = G-mail
+Ctrl+Alt+p = G-Photos
+Ctrl+Alt+ä = Virustotal
+
+-------------------------------------------------------
+
+Open Programs
+
+Shift+Alt+c = Calculator
+Shift+Alt+w = Word
+Shift+Alt+n = Notepad
+Shift+Alt+q = What's App
+Windowskey+b = Vivaldi
+Ctrl+Alt+N = Vivaldi incognito
+Ctrl+Windowskey+p = Scrcpy
+Shift+Alt+d = Discord
+Shift+Alt+f = Fast-Clicker
+-------------------------------------------------------
+
+AHK stuff
+
+Ctrl+Windowskey+r = Restarts all default ahk scripst
+Ctrl+Alt+ü = Current window postion
+
+-------------------------------------------------------
+
+Searches Websites
+
+Ctrl+Shift+b = Searches Google
+Ctrl+Shift+a = Searches Anilist
+Ctrl+Shift+y = Searches Youtube
+Ctrl+Alt+l = Google Translate | Detect Language to german
+Ctrl+Alt+k = Google Translate | Detect Language to English
+Ctrl+Alt+ö = Open selected link
+Ctrl+Alt+c = Searches Chiaki
+Ctrl+Alt+, = Conjugation of the verb Italian
+Ctrl+Alt+. = Translate German to Italian
+Shift+Alt+s = Google Searchbar
+Ctrl+Windowskey+c = Copies the url of Current Website
+Windowskey+c = Selects and copies everything
+
+-------------------------------------------------------
+
+Time and date
+
+Ctrl+Alt+r = Inputs exact Date and Time
+Ctrl+Alt+t = Inputs Date
+
+-------------------------------------------------------
+
+Window Options
+
+Ctrl+Windowskey+x = Sets Current Window Alwaysontop
+Ctrl+Windowskey+h = Hides Desktop Icons
+Alt+Windowskey+y = Sets Taskbar to auto hide
+Windowskey+t = Changes Window Transparency
+
+-------------------------------------------------------
+
+Changes Resolution of the Main 
+
+Shift+Windowskey+e = Changes Resolution 1680 1050
+Shift+Windowskey+r = Changes Resolution 2560 1600
+
+-------------------------------------------------------
+
+Displays Message after a action and certain time
+
+Alt+t = Waits 60 secs and displays a message and plays a sound
+
+-------------------------------------------------------
+
+------Random script for fun
+
+Ctrl+Alt+- = Follows the mouse in a line
+
+-------------------------------------------------------
+
+------Picture in Picture window options
+
+Moves the PIP window
+
+Capslock & 1
+Capslock & 2
+Capslock & 3
+Capslock & 4
+
+Capslock & x = Closes PIP
+
+-------------------------------------------------------
+
+Spotify
+
+Shift+Windowskey+s = Opens EZBlocker and Spotify
+Capslock & s = Closes EZBlocker and Spotify
+
+------Roblox
+
+While Robloxs is active these keys switch
+
+Shift  = RButton
+Alt = Shift
+
+Ctrl+y = Equip everything
+
+-------------------------------------------------------
